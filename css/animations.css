@@ -24,7 +24,7 @@ MENU SECTION ANIMATION
     border-radius: 6px;
     /*background-color: #052136:*/
     cursor: pointer;
-    transition-property: all;
+    transition-property: background;
     transition-duration: .4s;
     transition-delay: 0s;
     transition-timing-function: ease-in-out;
