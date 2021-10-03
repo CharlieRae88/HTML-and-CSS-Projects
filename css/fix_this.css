@@ -1,0 +1,21 @@
+/*=======================================
+authour: Charlie Rae
+=========================================
+Generic Styles
+=======================================*/
+html {
+    background-color: lightblue;
+    font-style: normal;
+    text-align: center;
+    color: darkblue;
+}
+
+H1, H2, H3 {
+    text-align: center;
+    color: darkblue;
+}
+p {
+    font-style: bold;
+    text-align: center;
+    color: darkblue;
+}
